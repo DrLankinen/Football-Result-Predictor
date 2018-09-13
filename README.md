@@ -1,5 +1,5 @@
 # Football Result Predictor
 
-This project is under construction and is not yet working. 
+This project is under construction.
 
 lankinen@protonmail.com
